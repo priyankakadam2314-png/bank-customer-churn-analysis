@@ -14,8 +14,11 @@ This project analyzes customer churn data to identify patterns and factors affec
 - Certain regions have more churn compared to others  
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
-Dashboard-1.png
+### 🔹 Dashboard 1
+![Dashboard1](Dashboard-1.png)
+
+### 🔹 Dashboard 2
+![Dashboard2](Dashboard-2.png)
 ## 📁 Files
 - Power BI File (.pbix)
 - Dashboard Screenshot
