@@ -15,7 +15,7 @@ This project analyzes customer churn data to identify patterns and factors affec
 
 ## 📸 Dashboard Preview
 ![Dashboard](dashboard.png)
-
+Dashboard-1.png
 ## 📁 Files
 - Power BI File (.pbix)
 - Dashboard Screenshot
